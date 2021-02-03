@@ -130,4 +130,3 @@ dmypy.json
 .logs/
 .idea
 settings_dev.py
-*.yaml
